@@ -3,7 +3,7 @@
  * cps3330*03
  * */
 namespace Lab2Task5
-{  
+{
 
     public class TestL2tt
     {

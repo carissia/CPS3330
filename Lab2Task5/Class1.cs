@@ -1,6 +1,6 @@
 ﻿using System;
     namespace Lab2Task5
-{  
+{
     public class Class1
     {   /* Carissia Reyes
          * Lab2
